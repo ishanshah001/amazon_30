@@ -5,13 +5,14 @@ A collection of 100 LeetCode problems commonly asked in interviews.
 ## 📌 About
 
 This repository is part of my preparation for coding interviews, especially for roles at Amazon. It includes:
-- A curated list of 30 problems frequently asked by Amazon.
+- A curated list of problems frequently asked by Amazon.
 - My solution for each problem (in Python).
 - A Google Sheet tracker to monitor my progress, note concepts, and revisit mistakes.
 
 ## 📊 Tracker Sheet
 
 👉 [Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1eql5Qt0f9DUQ1YhcTu0km3SQFda-A8l-mKQawx16mjM/edit?usp=sharing)
+👉 [Click here to view Leetcode page](https://leetcode.com/problem-list/7p5x763/)
 
 ## 🚀 How to Use
 You can:
